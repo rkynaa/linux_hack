@@ -1,0 +1,3 @@
+/etc/cron.daily/apache2
+/etc/init.d/apache2
+/etc/logrotate.d/apache2

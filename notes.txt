@@ -1,0 +1,8 @@
+- getting help:
+	- you can use '--help' to get help
+	- the shorter version: -h or -?
+	- 'help' is the shorter version of 'manual'
+- locate v whereis
+	- locate is basically a function to find files which its title contains the keyword
+	- meanwhile whereis is basically to find a file which its title exactly like the keyword
+	- whereis only can use it for binary files

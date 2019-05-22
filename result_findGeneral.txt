@@ -1,0 +1,6 @@
+/usr/sbin/apache2
+/usr/lib/php/7.3/sapi/apache2
+/usr/share/lintian/overrides/apache2
+/etc/cron.daily/apache2
+/etc/init.d/apache2
+/etc/logrotate.d/apache2
