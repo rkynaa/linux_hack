@@ -1,0 +1,20 @@
+root      2456  0.0  0.0   8964  3008 ?        Ss   15:35   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+root      2458  0.0  0.3 444988 19660 ?        Sl   15:35   0:00 /usr/libexec/xdg-desktop-portal
+root      2462  0.0  0.1 240068  7200 ?        Sl   15:35   0:00 /usr/lib/gvfs/gvfsd
+root      2467  0.0  0.1 384988  9848 ?        Sl   15:35   0:00 /usr/lib/gvfs/gvfsd-fuse /root/.gvfs -f -o big_writes
+root      2476  0.0  0.0 392136  5744 ?        Sl   15:35   0:00 /usr/libexec/xdg-document-portal
+root      2480  0.0  0.0 235880  4240 ?        Sl   15:35   0:00 /usr/libexec/xdg-permission-store
+root      2501  0.0  0.0 159340  5124 ?        Sl   15:35   0:00 /usr/lib/dconf/dconf-service
+root      2546  0.0  1.5 1415640 93396 tty2    Sl+  15:39   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -childID 5 -isForBrowser -boolPrefs 303:0| -stringPrefs 289:36;74321c6e-3c0b-4660-8789-e4ef2fb3401a| -schedulerPrefs 0001,2 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appdir /usr/lib/firefox-esr/browser 2237 true tab
+root      2591  0.0  1.0 734640 64204 ?        Sl   15:41   0:03 /usr/bin/nautilus --gapplication-service
+root      3437  2.2  5.3 749952 325040 tty2    Sl+  15:47   2:28 /usr/lib/wing-personal7/bin/__os__/linux-x64/runtime-python2.7/bin/python2.7 -OSE /usr/lib/wing-personal7/bootstrap/wing.py --squelch-output
+root      3457  0.3  0.3  27644 19372 tty2     S+   15:47   0:21 /usr/bin/python -u /usr/lib/wing-personal7/bootstrap/wingdb.py 127.0.0.1:42917 -1 --first-stop r''+chr(60)+r'none'+chr(62)+r'' --nowait-on-exit --stdout-encoding=utf_8 --stdin-encoding=utf_8 r'/usr/lib/wing-personal7/src/debug/tserver/_sandbox'+chr(46)+r'py'
+root      3465  0.0  0.0      0     0 ?        I    15:50   0:00 [kworker/0:1-mm_percpu_wq]
+root      3647  0.0  0.0      0     0 ?        I    17:09   0:00 [kworker/u4:1-events_unbound]
+root      3649  0.0  0.0      0     0 ?        I    17:09   0:00 [kworker/0:3-events]
+root      3662  0.2  0.0      0     0 ?        I    17:13   0:03 [kworker/1:2-ata_sff]
+root      3808  0.6  0.8 490816 52196 pts/2    Sl   17:24   0:05 gedit notes.txt
+root      3829  0.1  0.0      0     0 ?        I    17:28   0:00 [kworker/1:1-events]
+root      3836  0.0  0.0      0     0 ?        I    17:31   0:00 [kworker/u4:2-events_unbound]
+root      3843  0.0  0.0      0     0 ?        I    17:33   0:00 [kworker/1:0-ata_sff]
+root      3862  0.0  0.0  10568  3068 pts/2    R+   17:37   0:00 ps aux

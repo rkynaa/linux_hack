@@ -1,0 +1,23 @@
+   34  lo_CAT_e aircrack-ng
+   35  lo_CAT_e aircrack-ng > result_aircracklo_CAT_e.txt
+   59  _CAT_ initial_psAux.txt 
+   60  _CAT_ > check.txt
+   62  _CAT_ check.txt 
+   63  _CAT_ >> check.txt 
+   64  _CAT_ check.txt 
+   65  _CAT_ > check.txt 
+   66  _CAT_ check.txt 
+   83  _CAT_ add .
+  114  _CAT_ initial_psAux.txt 
+  115  head _CAT_ initial_psAux.txt 
+  116  head _CAT_ initial_psAux.txt > /root/linux_hack/chapter_2/head_initial_psAux.txt
+  117  _CAT_ initial_psAux.txt 
+  118  head _CAT_ initial_psAux.txt 
+  146  _CAT_ pingTest.txt
+  147  _CAT_ pingTest.txt 
+  150  history | grep _CAT_
+  151  history | grep _CAT_ > grepCatHistory.txt
+  153  history | grep _CAT_
+  154  history | grep _CAT_ | sed s/_CAT_/CAT/g
+  155  history | grep _CAT_ | sed s/_CAT_/_CAT_/g
+  156  history | grep _CAT_ | sed s/_CAT_/_CAT_/g > sedGrepCatHistory.txt

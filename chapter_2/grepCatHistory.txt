@@ -1,0 +1,19 @@
+   34  locate aircrack-ng
+   35  locate aircrack-ng > result_aircracklocate.txt
+   59  cat initial_psAux.txt 
+   60  cat > check.txt
+   62  cat check.txt 
+   63  cat >> check.txt 
+   64  cat check.txt 
+   65  cat > check.txt 
+   66  cat check.txt 
+   83  cat add .
+  114  cat initial_psAux.txt 
+  115  head cat initial_psAux.txt 
+  116  head cat initial_psAux.txt > /root/linux_hack/chapter_2/head_initial_psAux.txt
+  117  cat initial_psAux.txt 
+  118  head cat initial_psAux.txt 
+  146  cat pingTest.txt
+  147  cat pingTest.txt 
+  150  history | grep cat
+  151  history | grep cat > grepCatHistory.txt

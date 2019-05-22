@@ -1,0 +1,10 @@
+root      3457  0.3  0.3  27644 19372 tty2     S+   15:47   0:21 /usr/bin/python -u /usr/lib/wing-personal7/bootstrap/wingdb.py 127.0.0.1:42917 -1 --first-stop r''+chr(60)+r'none'+chr(62)+r'' --nowait-on-exit --stdout-encoding=utf_8 --stdin-encoding=utf_8 r'/usr/lib/wing-personal7/src/debug/tserver/_sandbox'+chr(46)+r'py'
+root      3465  0.0  0.0      0     0 ?        I    15:50   0:00 [kworker/0:1-mm_percpu_wq]
+root      3647  0.0  0.0      0     0 ?        I    17:09   0:00 [kworker/u4:1-events_unbound]
+root      3649  0.0  0.0      0     0 ?        I    17:09   0:00 [kworker/0:3-events]
+root      3662  0.2  0.0      0     0 ?        I    17:13   0:03 [kworker/1:2-ata_sff]
+root      3808  0.6  0.8 490816 52196 pts/2    Sl   17:24   0:05 gedit notes.txt
+root      3829  0.1  0.0      0     0 ?        I    17:28   0:00 [kworker/1:1-events]
+root      3836  0.0  0.0      0     0 ?        I    17:31   0:00 [kworker/u4:2-events_unbound]
+root      3843  0.0  0.0      0     0 ?        I    17:33   0:00 [kworker/1:0-ata_sff]
+root      3862  0.0  0.0  10568  3068 pts/2    R+   17:37   0:00 ps aux
